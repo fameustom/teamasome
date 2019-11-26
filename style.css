@@ -1,0 +1,103 @@
+﻿
+ .asome{
+     background-color: black;
+     color: whitesmoke;
+     padding:20px;
+     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+     text-align: center;
+     font-size: 40px;
+ }
+body { 
+width:99%;
+}
+.mainimage {
+    background-color:white;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    text-align: left;
+    font-size: 20px;
+    float: left;
+    margin: 3%;
+}
+.maintext {
+    background-color:white;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    text-align: left;
+    font-size: 20px;
+    float: left;
+    margin: 3%;
+    width: 600px;
+}
+.topmenu1, .topmenu2, .topmenu3, .topmenu4 {
+background-color: black;
+color:white;
+font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+text-align: center;
+width: 25%;
+height: 7%;
+float: left;
+font-size: 20px;
+}
+.footer {
+background-color: black;
+color:white;
+font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+text-align: center;
+width: 99%;
+height: 14%;
+float: left;
+font-size: 20px;
+}
+.sgbox, .sgimage {
+    background-color:black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+    padding: 40px;
+}
+.sgtext {
+    width: 450px;
+    border:black;
+    padding: 10px;
+    margin: 20px;
+    background-color:white;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+}
+.bookreview {
+    width: 800px;
+    border:black;
+    padding: 10px;
+    margin: 50px;
+    background-color:white;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+}
+.sgdown {
+    background-color:white;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+    margin: 20px;
+}
+.now {color: yellow;
+}
+a{ color:whitesmoke; text-decoration:none;}
+#content {
+    overflow:auto;
+}
+
+
+
+
